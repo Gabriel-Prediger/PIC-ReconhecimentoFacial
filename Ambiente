@@ -1,0 +1,21 @@
+O ambiente escolhido para o desenvolvimento do projeto foi o Jupyter Notebook. 
+
+Para a instalação do mesmo basta seguir os seguintes passos:
+  1-Ir ao site official do anaconda (https://www.anaconda.com/), baixar o executavel do Anaconda;
+  2-Executar o instalador do Anaconda;
+  3-Seguir os passos de instalação recomendados do executavel.
+    3.1-Ao escolher onde o Anaconda deve ser instalado escolha o diretorio C:
+Feito esses passos o Anaconda Navigator deve estar instalado em sua maquina.  
+
+Usando o Anaconda Navigator iremos criar o ambiente para o desencolvimento do projeto, com jupyter notebook.
+  1-Abra o Anaconda Navigator;
+  2-Clique em "Launch" na opção Jupyter Notebook.
+  3-Criar a pasta do projeto
+    3.1-Clique em "new"
+    3.2-Escolha a opção "folder", ao criar essa pasta renomei-a de "Projeto PIC"
+  *O caminho da pasta deve ser o seguinte "C:\Users\fulanodetal\Projeto PIC"
+  4-Criar o notebook
+    4.1-Escolha a pasta criada no passo 3.2 e a abra
+    4.2-Clique em "new"
+    4.3-Escolha a opção "python-3"
+Feito isso o ambiente está preparado, futuros arquivos (notebooks) seguiram o passo 4 para sua criação e e implementacao.
